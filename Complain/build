@@ -1,5 +1,1 @@
-echo "running: $0 $*" && set -eu && set -o pipefail && set -x && trap "echo 'ERR' && exit -1" ERR
-
-node {
-   echo 'Hello World santosh'
-}
+echo "test by santosh"
